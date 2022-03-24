@@ -9,3 +9,7 @@ ___
 ![spina DC di alimentazione](./imgs/spinaDC.png)
 
 ___
+
+![power resistor](./imgs/5W-39K.png)
+
+___
